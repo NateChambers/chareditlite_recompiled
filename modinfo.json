@@ -1,0 +1,16 @@
+{
+	"name": "CharEditLite - Recompiled - 1.0.0",
+	"description": "[h1] This is not my mod [/h1]\nThis mod was done by Mechani aka Legion, https://github.com/Mechani-Legion/ and kindly put on github.\n\nAs he is no longer maintaining it, I will maintain this one for as long as I play CE. I recompiled this because the 6.8.4 version on the workshop is compiled with a really old verison PersistentHumanoidNPC saved on the authors computer in the mods Content folder. This is causes a lot of log spam and wierd skeleton / animation side effects. \n\n\n[h1] Original Notes [/h1]\nA little mod for saving, loading or editing the appearance of the characters and thralls (for solo/coop and server).\nInfo: v6.8.4\n- The mod is triggered by an item named \"Mirror\". Crafted at Artisan's Worktable.\n- The mirror gives a code or can create an item named \"Shard\" for the management of appearances.\n- Full editor, HD preview. Customisation rights management (admin).\n- Good compatibility with others mods. Automatic addition of some customisation features.\n",
+	"changeNote": "Recompiled mod as it was saved with an old version of PersistentHumanoidNPC in the local content folder on the authors computer. This is just a clean compile",
+	"author": "Teella",
+	"authorUrl": "https://github.com/teella/CharEditLite",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2169663966",
+	"steamVisibility": 0,
+	"folderName": "CharEditLite",
+	"revisionNumber": 233751,
+	"snapshotId": 25795
+}
