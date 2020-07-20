@@ -10,6 +10,12 @@ We plan to stay true to this mod. It's a beautiful work of art!
 Original Mod Link for now:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1366358141
 
+Have not and will not touch Compo/CEL_BaseCharCompo and Compo/CEL_FCControlCompo as we understand other mods depend on them. I'll only touch them if they need a fix from a Funcom change.
+
+[h1]update version 1.0.1 - we love RBG Lab[/h1]
+- No more disappearing green in RGBLab
+- RGB Lab now saves colours and restores
+
 [h1]Original Info[/h1]
 
 A little mod for saving, loading or editing the appearance of the characters and thralls (for solo/coop and server).
